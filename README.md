@@ -1,7 +1,7 @@
 beers.js
 ========
 
-Interact with Beers right from javascript, insipired by [https://github.com/mutru/beers](beers.rb).
+Interact with Beers right from javascript, insipired by [beers.rb](https://github.com/mutru/beers).
 
 Usage
 =====
