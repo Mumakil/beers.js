@@ -20,6 +20,9 @@ beers = require('beers');
 # Give me three double beers
 3.doubleBeers()
 
+# Make it smaller
+5.beers().compact()
+
 # Can't decide how many?
 Math.random.beers()
 
